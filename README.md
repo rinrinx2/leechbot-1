@@ -8,10 +8,10 @@
   
   'API_HASH' = Obtained from Telegram 
 
-'APP_ID' = Obtained from Telegram
+  'APP_ID' = Obtained from Telegram
 
-'BOT_TOKEN' = Obtained from Botfather
+  'BOT_TOKEN' = Obtained from Botfather
   
-'EVERYONE_CHATS' = Chats for everyone, space seperated, IDs only
+  EVERYONE_CHATS' = Chats for everyone, space seperated, IDs only
   
-'ADMIN_CHATS' = Chats for admins, space seperated, IDs only
+  'ADMIN_CHATS' = Chats for admins, space seperated, IDs only
