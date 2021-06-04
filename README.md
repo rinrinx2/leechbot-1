@@ -46,4 +46,14 @@
      cancel -  Cancel your leech
      list - Lists YOUR leeches
 
- ## Note - Commands don't work if added the bots username
+ ## Note - Commands don't work if added the bots username.
+
+
+   ## Other Commands
+
+     help - to get organised help message
+     setthumbnail - <as reply to image or as a caption>
+     delthumbnail - To delete thumbnail
+     setwatermark - <as reply to image or as a caption>
+     delwatermark - To delete watermark
+     testwatermark - To test watermark
