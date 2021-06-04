@@ -10,7 +10,7 @@
             "description": "@BotFather"
         },
         "TESTMODE": {
-            "description": "Use Telegram's test servers",
+            "description": "Telegram's servers",
             "value": "0",
             "required": false
         },
