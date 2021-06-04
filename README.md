@@ -19,10 +19,31 @@
 
   ## Optional Vars
 
-   `MAGNET_TIMEOUT`  = Timeout for dead magnet links (In Seconds)
+   `MAGNET_TIMEOUT`  = Timeout for dead magnet links (In seconds)
 
    `LEECH_TIMEOUT`  = Timeout for torrent files (In seconds)
 
-   `PROGRESS_UPDATE_DELAY`  = Delay for progress and other things
+   `PROGRESS_UPDATE_DELAY`  = Delay for progress and other things (In seconds)
  
    `TESTMODE`  = Use Telegram's test server
+
+
+  ## Commands 
+  add in [@BotFather](https://t.me/BotFather)
+
+     torrent - Download from torrent files
+     ziptorrent - Download torrent files as zipped
+     filetorrent - Sends video as files
+     magnet - Download from magnet links
+     zipmagnet - Download magnet links as zip
+     filemagnet - Sends video as file
+     directdl - Download Links
+     direct - Download links
+     zipdirectdl - Leech as zipped format
+     zipdirect - Leech as zipped format
+     filedirectdl - Sends video as files
+     filedirect - Sends video as files
+     cancel -  Cancel your leech
+     list - Lists YOUR leeches
+
+ ## Note - Commands don't work if added the bots username
