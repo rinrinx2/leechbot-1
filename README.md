@@ -6,7 +6,7 @@
   
   ## Compulsory Vars
   
-'API_HASH' = Obtained from Telegram 
+  'API_HASH' = Obtained from Telegram 
 
 'APP_ID' = Obtained from Telegram
 
