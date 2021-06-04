@@ -15,3 +15,14 @@
   `EVERYONE_CHATS`  = Chats for everyone, space seperated, IDs only
   
   `ADMIN_CHATS`  = Chats for admins, space seperated, IDs only
+
+
+  ## Optional Vars
+
+   `MAGNET_TIMEOUT`  = Timeout for dead magnet links (In Seconds)
+
+   `LEECH_TIMEOUT`  = Timeout for torrent files (In seconds)
+
+   `PROGRESS_UPDATE_DELAY`  = Delay for progress and other things
+ 
+   `TESTMODE`  = Use Telegram's test server
